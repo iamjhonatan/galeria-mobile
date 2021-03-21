@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tran02</string>
+    <string name="title">Title</string>
+    <string name="on"><![CDATA[>]]></string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="imagem">imagem</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="login_ou_senha_inv_lidos">Login ou senha inválidos!</string>
+</resources>
